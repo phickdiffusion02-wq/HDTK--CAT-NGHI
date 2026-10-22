@@ -1,0 +1,7 @@
+{
+  "name": "Remix: BÁO GIÁ HĐTK - CÁT NGHI",
+  "description": "A web application to estimate the cost of architectural design services based on the total floor area and number of stories. It provides a quick and visually appealing cost projection for potential clients. - KTS Hoàng Phi",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
